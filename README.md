@@ -32,3 +32,8 @@ This Tableau dashboard provides a detailed analysis of sales, profit, and quanti
 * Region filter
 * Tooltip details
 * Interactive charts and maps
+
+## Contributions
+
+This project is open to contribution. All contributions are welcome!!!
+
